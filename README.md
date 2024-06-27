@@ -21,7 +21,6 @@ Pipelines improve code organization and reusability.
 This code snippet sets up the pipeline, but doesn't train or use it for predictions yet.
 
 ![Screenshot 2024-06-27 161501](https://github.com/mohamedabdelhamed13/recommindation_model/assets/67540846/00fcbdb0-5e24-48b7-af53-310d8acf0c4d)
-![Screenshot 2024-06-27 161509](https://github.com/mohamedabdelhamed13/recommindation_model/assets/67540846/5fb439fe-257e-4052-9f7e-ede2258bf2fd)
 
 
 ## Model Performance Evaluation
